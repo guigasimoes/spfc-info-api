@@ -1,1 +1,20 @@
-
+[
+  {
+    "title": "Bastidores do clássico"
+    "description": "Bastidores mostram festa no vestiário do São Paulo"
+    "image": "https://s2.glbimg.com/B-G3-houtXhOd7Ln6JTmNSrZXM4=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/F/e/Wb2Wf8TEAn1af1GJOOsA/calle.png"
+    "link": "https://ge.globo.com/futebol/times/sao-paulo/noticia/2022/07/16/bastidores-mostram-festa-no-vestiario-sao-paulo-allianz-e-nosso-copa-do-brasil.ghtml"
+  },
+  {
+    "title": "Estreia de Marcos Guilherme"
+    "description": "Marcos Guilherme só poderá defender São Paulo em dois campeonatos"
+    "image": "https://s2.glbimg.com/ThL-tpl4ULH-uuuRJol_PYHpbhk=/0x0:2048x1364/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/z/6/WzfGMXTxSUpCs3V3J0bg/marcos-guilherme1.jpg"
+    "link": "https://ge.globo.com/futebol/times/sao-paulo/noticia/2022/07/16/perto-da-estreia-marcos-guilherme-so-podera-defender-sao-paulo-em-dois-campeonatos.ghtml"
+  },  
+  {
+    "title": "Novo jogador a vista"
+    "description": "São Paulo busca investidor pontual para contratar Galoppo"
+    "image": "https://s2.glbimg.com/MrtMAGrb8SiWNWoh3M5Olt21AkU=/0x0:3928x2619/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/v/k/zLRoSVSBOix9EpdEzMIQ/gettyimages-1239771490.jpg"
+    "link": "https://ge.globo.com/futebol/times/sao-paulo/noticia/2022/07/15/sao-paulo-busca-investidor-pontual-para-contratar-galoppo.ghtml"
+  },
+]
